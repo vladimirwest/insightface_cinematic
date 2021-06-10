@@ -11,7 +11,7 @@ __all__ = ['get_model', 'get_model_list']
 
 _models = {
     'arcface_r100_v1': arcface_r100_v1,
-    #'arcface_mfn_v1': arcface_mfn_v1,
+    'arcface_mfn_v1': arcface_mfn_v1,
     #'arcface_outofreach_v1': arcface_outofreach_v1,
     'retinaface_r50_v1': retinaface_r50_v1,
     'retinaface_mnet025_v1': retinaface_mnet025_v1,
